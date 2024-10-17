@@ -1,1 +1,109 @@
-my new resume in these file
+NAVEEN BABU
+DevOps Engineer
+Email: babunaveen1290@gmail.com	|  Mobile-+91 7337081121  | Warangal  | linkedin-id
+
+CAREER OBJECTIVE:	
+
+Enthusiastic and detail-oriented computer science graduate seeking an entry-level DevOps position. Eager to leverage strong technical skills in cloud computing, automation, and collaboration to enhance operational efficiency and contribute to innovative projects.
+
+TECHNICAL SKILLS:	
+
+Operating Systems				- Linux, Windows
+Cloud                                                              - AWS
+Source code Management Tools		- GIT, GitHub, BitBucket
+Scripting Languages				- Bash
+Application/Web Servers			- Nginx, Apache, Tomcat
+Build Tools				            - Maven
+Infrastructure as a code (IAAC) tool		- Terraform.
+Configuration Management Tools		- Ansible
+CI/CD tools				            - Jenkins
+Containerization			            - Docker, Kubernetes
+Monitoring					- Prometheus & Grafana, Datadog
+Artifactory service				- Nexus
+Code Quality Service				- Sonarqube
+		   	 
+AWS SERVICES:
+
+    • Elastic Compute Cloud
+    • Simple Storage Service
+    • Identify and Access Management
+    • Elastic Load Balancer
+    • Elastic BeanStalk
+    • Auto Scaling Group
+    • Elastic Block Storage
+    • Virtual Private Cloud
+    • Amazon Machine Images
+    • Simple Notification Service
+    • AWS CodePipeline
+    • Relational Database Service
+    • Cloud watch
+    • Route53
+
+
+EDUCATION QUALIFICATIONS:
+
+
+
+
+
+PROJECTS:
+
+DOCKERIZING APPLICATION:
+
+TOOLS: GIT, GITHUB, JENKINS, SONAR, TRIVY, OWASP,  DOCKER, KUBERNETES, ARGO CD, PROMETHEUS & GRAFANA
+
+DESCRIPTION: GETTING THE CODE FROM GITHUB TO CI SERVER AND SCAN THE CODE USING SONAR TOOL, INSTALLING THE DEPENDENCIES USING NPM TOOL AND CHECKING THE DEPENDENCIES USING OWASP TOOL & WRITING THE DOCKER FILE AND BUILD THE DOCKER IMAGE, SCANNING THE DOCKER IMAGE TRIVY AND PUSH THE CODE TO DOCKER HUB AND DEPLOYED THAT APPLICATION ON KUBERNETES CLUSTER USING ARGO CD AND MONITORED THE INFRA ALONG WITH THE SERVICES USING PROMETHEUS & GRAFANA.
+
+
+AUTOMATING INFRA THROUGH JENKINS:
+TOOLS: GIT, GITHUB, JENKINS, TERRAFORM 
+
+DESCRIPTION: THIS IS THE FIRST STAGE FOR MY PROJECT, IN THIS PROJECT WE ARE GOING TO CREATE INFRASTRUCTURE FOR OUR PROJECT BY AUTOMATION USING THE JENKINS DECLARATIVE PIPELINE.
+
+
+SOFTWARE INSTALLATIONS:
+
+DESCRIPTION: AFTER CREATING INFRA WE ARE GOING TO INSTALL SOFTWARES ON 3 TIER ARCHITECTURE WE ARE INSTALLING WEB SERVERS, WEBAPP TOMCAT AND PROGRAMMING SOFTWARES LIKE JAVA, AND FINALLY DATABASES LIKE MYSQL USING CONFIGURATION MANAGEMENT TOOLS LIKE ANSIBLE.
+
+
+AUTOMATION DEPLOYMENT:
+
+TOOLS: GIT, GITHUB, JENKINS, MAVEN, S3 STORAGE, SONAR & TOMCAT.
+
+DESCRIPTION: ONCE INFRA AND SETUP IS DONE, WE ARE GOING TO DEPLOY THE WEB APPLICATION ON A APPLICATION SERVER LIKE TOMCAT AND STORING THE ARTIFACTS ON AWS S3 AND WILL BE ABLE TO ROLL BACK ONCE IT FAILED. 
+
+
+
+
+
+CI/CD USING AWS CODEPIPELINE:
+
+SERVICES: GIT, S3, ELASTIC BEANSTALK, IAM, AWS CODECOMMIT, CODE BUILD, CODE DEPLOY, CODE PIPELINE.
+DESCRIPTION: CREATE AWS CODEPIPELINE TO IMPLEMENT CONTINUOUS INTEGRATION AND CONTINUOUS DEPLOYMENT. WHENEVER DEVELOPER PUSH THE CODE INTO CENTRAL REPO, AUTOMATICALLY IT PIPELINE GETS RELEASED AND DEPLOYED.
+
+
+STRENGTHS:
+
+    • Hardworking and Self-driven with positive attitude
+    • Quick learner and easily adaptable to changing work environments
+    • Very good at working with Team and Execute multiple tasks
+
+PERSONAL PROFILE:
+
+Name 			: 	
+Father Name 		: 	S VENKATA SUBBAIAH
+Date of Birth 		: 	-
+Gender 			:	-
+Nationality 		:	Indian
+Marital Status 		:	Single
+Languages Known 	: 	English, Hindi and Telugu.
+Linkedin 		:
+GitHub			: 
+
+Declaration:
+
+ I hereby declare that the above information is true to the best of my knowledge and belief and 
+request to give me an opportunity to serve in your esteemed organization.
+
+Name
+Place                                                                          :
